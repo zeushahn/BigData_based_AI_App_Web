@@ -1,4 +1,4 @@
-# Big-Data-Based-AI-App-Web-
+# BigData_based_AI_App_Web
 빅데이터 기반 AI활용 앱&amp;웹 개발자(풀스택) 취업캠프
 
 연락처 : kennysy@naver.com
