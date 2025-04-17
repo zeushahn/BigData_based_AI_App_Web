@@ -1,0 +1,18 @@
+
+1. URL
+http://swopenapi.seoul.go.kr/api/subway/인증번호/json/realtimeStationArrival/1/5/강남
+
+- 강남역이면 강남으로 입력해야 결과 값이 나옴
+
+2. 열차 구분 :'updnLine'
+3. 열차 방면 :'trainLineNm'
+4. 현재 위치 :'arvlMsg3'
+5. 도착 시간 :'arvlMsg2'
+
+
+
+
+
+
+
+
