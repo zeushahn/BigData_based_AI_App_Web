@@ -21,3 +21,15 @@
 	<string>Used to capture audio for image picker plugin</string>
 	<key>NSPhotoLibraryUsageDescription</key>
 	<string>Used to demonstrate image picker plugin</string>
+
+### 확대 축소
+	body: Center(
+	        child: PhotoView(
+	          backgroundDecoration: const BoxDecoration(
+	            color: Colors.white, // PhotoView 내부 배경색을 흰색으로 설정
+	          ),
+	          imageProvider: NetworkImage(
+	            value[0],
+	          ),
+	        ),
+	      ),
